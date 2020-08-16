@@ -240,3 +240,8 @@ body {
 #loader img {
     width:100px;
 }
+
+#copyright {
+  text-align: center;
+  font-weight: 900;
+}
